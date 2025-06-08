@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+xgboost # Optional, if you want to use XGBoost. Uncomment in models.py too.
+lightgbm # Optional, if you want to use LightGBM. Uncomment in models.py too.
+joblib

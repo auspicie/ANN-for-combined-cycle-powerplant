@@ -1,0 +1,19 @@
+# Ignore virtual environment  
+venv/  
+.env  
+
+# Ignore dataset files  
+data/  
+*.csv  
+*.json  
+
+# Ignore model artifacts  
+models/  
+*.pkl  
+*.h5  
+
+# Ignore other ms_word_pdf_files
+*.docx
+*.pdf
+
+__pycache__/
